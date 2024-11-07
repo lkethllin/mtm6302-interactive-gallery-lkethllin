@@ -2,6 +2,8 @@ body{
     font-family: Poppins;
     text-align: center;
     background-color: aliceblue;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
 h1 {
