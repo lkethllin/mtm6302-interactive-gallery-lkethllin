@@ -11,7 +11,7 @@
         "Puppy 7: A mischievous little one, always getting into trouble.",
         "Puppy 8: The world's tiniest cuddle monster.",
         "Puppy 9: Looking cute and knowing it!",
-        "Pppy 10: I may be small, but my personality is HUGE!",
+        "Puppy 10: I may be small, but my personality is HUGE!",
         "Puppy 11: A cute and cuddly ball of fluff enjoying some playtime.",
         "Puppy 12: Giving you the ‘please throw the ball’ look."
     ];
